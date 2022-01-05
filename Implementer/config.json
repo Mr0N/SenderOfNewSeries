@@ -1,0 +1,6 @@
+﻿{
+  "UriParsing": "http://myseria.pro/series/",
+  "TokenTelegramBot": "Token",
+  "ChatUsername": "chat for send message",
+  "ConnectionString": "Connection String to db"
+}
